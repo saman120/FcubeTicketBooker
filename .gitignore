@@ -1,0 +1,15 @@
+.settings
+.idea
+.svn
+.classpath
+.project
+nb-configuration.xml
+nbactions.xml
+.project
+src/main/main.iml
+nb-configuration.xml
+
+/build/
+target
+src/main/webapp/file/*
+/bin
